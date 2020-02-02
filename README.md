@@ -29,3 +29,4 @@ This web app is deployed in heroku which is completely free. In  order to access
 # Results 
 | Front View  |  Authenticating  | Recipe of food |
 | ------------- | ------------- | ------------- |
+ | ![Alt text](login.png?raw=true "Front end" )  | ![Alt text](authen.png?raw=true "Front end" )  |  ![Alt text](recipe.png?raw=true " Recipes" )
