@@ -1,5 +1,5 @@
 # Food-Recipes-
-Food Recipes is an web app made from node js and express js at the back end server to serve the users with the recipes of delecious food items. The front end of the web page are made from HTML, Javascript, CSS and Bootstrap. The back end are made from Node JS, Express JS and also use REST API from mailchimp. API fetched from "https://us4.api.mailchimp.com/3.0/lists/4dd1517d78"
+Food Recipes is an web app made from node js and express js at the back end server to serve the users with the recipes of delicious food items. The front end of the web page are made from HTML, Javascript, CSS and Bootstrap. The back end are made from Node JS, Express JS and also use REST API from mailchimp. API fetched from "https://us4.api.mailchimp.com/3.0/lists/4dd1517d78"
 
 # Dependencies 
 ## For Front end
