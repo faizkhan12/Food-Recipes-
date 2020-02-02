@@ -31,8 +31,8 @@ This web app is deployed in heroku which is completely free. In  order to access
 2. Initialize the node module by "npm init"
 3. Install some of the dependencies from node packet manager(npm) like express js, request,body-parser.
           'npm install express js body-parser request' 
-4. The server is currently running at PORT 3000. So in your web browser write "localhost:3000" and the front end of the wen app will be displayed
-5. Before connecting with the PORT first write the command line '<filename>'.js in your CL then connect it to the PORT 3000 in your web browser.
+4. The server is currently running at PORT 3000. So in your web browser write "localhost:3000" and the front end of the web app will be displayed
+5. Before connecting with the PORT first write the command line 'filename'.js in your CL then connect it to the PORT 3000 in your web browser.
 # Results 
 | Front View  |  Authenticating  | Recipe of food |
 | ------------- | ------------- | ------------- |
