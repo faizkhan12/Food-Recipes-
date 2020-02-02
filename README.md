@@ -16,6 +16,13 @@ Food Recipes is an web app made from node js and express js at the back end serv
 5. GIT
 6. HEroku to deploy our webapp
 
+# USE GITHUB
+1. git init
+2. git add .
+3. git commit -m "First Commit"
+4. git remote add origin "https://github.com/faizkhan12/Food-Recipes-.git"  
+5. git push -u origin master
+
 # How to display?
 This web app is deployed in heroku which is completely free. In  order to access just go here <a href = "https://blooming-scrubland-03419.herokuapp.com/">Food Recipes</a>. If by any chance its showing error then follow the next steps.
 
