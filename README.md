@@ -14,7 +14,7 @@ Food Recipes is an web app made from node js and express js at the back end serv
 3. Express JS
 4. REST API
 5. GIT
-6. HEroku to deploy our webapp
+6. Heroku to deploy our webapp
 
 # USE GITHUB
 1. git init
